@@ -1,0 +1,34 @@
+{
+  "name": "supertest-study",
+  "version": "1.0.0",
+  "description": "study with supertest",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "supertest": "^6.1.6"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  },
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiarar/supertest-study.git"
+  },
+  "keywords": [
+    "supertest",
+    "test",
+    "loadTest",
+    "stressTest",
+    "apiTest",
+    "study"
+  ],
+  "author": "Mai Rodrigues (@maiarar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiarar/supertest-study/issues"
+  },
+  "homepage": "https://github.com/maiarar/supertest-study#readme"
+}
